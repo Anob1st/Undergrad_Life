@@ -1,0 +1,35 @@
+#include<stdio.h>
+
+float celsius_to_fahrenheit(float c){
+    
+    float fahrenheit;
+    
+    fahrenheit = (c*(9.0/5.0)+32);
+    return fahrenheit;
+}
+
+int main(){
+    
+    
+    float c;
+    printf("input celsius: ");
+    scanf("%f", &c);
+    
+    float fahren;
+    fahren= (celsius_to_fahrenheit(c));
+    
+    printf("The Fahrenheit value is: %f\nAnd the weather is ", fahren);
+    
+    if (fahren<68)
+         printf("cold");
+         
+    else if(fahren<=82.4)
+        printf("moderate");
+    
+    else
+        printf("hot");
+    
+    return 0;
+    
+    
+}

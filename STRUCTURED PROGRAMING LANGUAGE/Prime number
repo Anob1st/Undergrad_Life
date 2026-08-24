@@ -1,0 +1,37 @@
+#include<stdio.h>
+int prime(int n){
+    
+    int CALL=0;
+    
+    for(int i=2;i<n;i++)
+    {
+        if(n%i==0)
+        {
+            CALL=1;
+        }
+}
+    return CALL;
+    
+}
+
+
+int main(){
+    int n;
+    
+    scanf("%d",&n);
+    
+    if(prime(n)==0)
+    {
+     printf("Prime nmbrr);
+    }
+    else
+    {
+    printf("Not prime nmbr");
+    }
+    
+    return 0;
+
+
+
+
+}

@@ -1,0 +1,18 @@
+#include <stdio.h>
+struct Student {
+    int roll;
+    float gpa;
+};
+
+int main()
+{
+    struct Student s1;
+
+    s1.roll = 101;
+    s1.gpa = 3.75;
+    printf("Roll = %d\n", s1.roll);
+    printf("GPA = %f\n", s1.gpa);
+
+
+    return 0;
+}
