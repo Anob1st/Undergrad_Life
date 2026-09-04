@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+long factorial(int n) {
+    // Return the factorial of n
+
+    long result = 1;
+
+    for (int i = 1; i <= n; i++) {
+        result = result * i;
+    }
+
+    return result;
+}
+
+int main() {
+    int num;
+    scanf("%d", &num);
+    printf("%d! = %ld\n", num, factorial(num));
+    return 0;
+}
