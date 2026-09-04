@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int celsius;
+    scanf("%d", &celsius);
+
+    // Calculate fahrenheit
+    int fahrenheit = celsius * 9 / 5 + 32;
+
+    // Print the results
+    printf("%d Celsius = %d Fahrenheit\n", celsius, fahrenheit);
+
+    return 0;
+}
