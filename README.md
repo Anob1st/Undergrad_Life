@@ -1,9 +1,9 @@
 
-<h1 style="color:red; font-size:60px;">Roll: 2025 3315 07</h1>
+<h1 style="color:red; font-size:60px;">Roll: (2025) 07</h1>
 
 # 📁 W3SCHOOL : https://github.com/Anob1st/Undergrad_Life/tree/main/STRUCTURED%20PROGRAMING%20LANGUAGE/W3SCHOOL
 # 📁 STRUCTURED PROGRAMMING LANGUAGE: https://github.com/Anob1st/Undergrad_Life/tree/main/STRUCTURED%20PROGRAMING%20LANGUAGE
-# 🐍 PROJECT SNAKE.C : (FIXING BUGS,, ALMOST DONE ig😭)
+# 🐍 PROJECT SNAKE.C : (FIXING BUGS,, ALMOST DONE ig)
 # ✏️ PROJECT DRAWING.html : https://github.com/Anob1st/DrawingHtml/tree/main
 
 
@@ -11,12 +11,7 @@
 The classes, assignments, late nights, struggles ,mistakes, self learning and small happy moments...
 Hopefully, when we look back at this repository years later, we will feel proud,,of how far we have come :`)
 
-
-
 <div align="center">
-
-# `UNDERGRAD · LIFE`
-<h1 style="color:red; font-size:60px;">Roll: 07</h1>
 
 <br>
 
