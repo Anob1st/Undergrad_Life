@@ -4,9 +4,7 @@
 # 📁 W3SCHOOL : https://github.com/Anob1st/Undergrad_Life/tree/main/STRUCTURED%20PROGRAMING%20LANGUAGE/W3SCHOOL
 # 📁 STRUCTURED PROGRAMMING LANGUAGE: https://github.com/Anob1st/Undergrad_Life/tree/main/STRUCTURED%20PROGRAMING%20LANGUAGE
 # 🗂️ PROJECT :
-
-The classes, assignments, late nights, struggles ,mistakes, self learning and small happy moments...
-Hopefully, when we look back at this repository years later, we will feel proud,,of how far we have come :`)
+__________________________________________________________________________________________________________________________________
 
 <div align="center">
 
@@ -128,3 +126,5 @@ Hopefully, when we look back at this repository years later, we will feel proud,
 
 <div align="center">
 
+The classes, assignments, late nights, struggles ,mistakes, self learning and small happy moments...
+Hopefully, when we look back at this repository years later, we will feel proud,,of how far we have come :`)
