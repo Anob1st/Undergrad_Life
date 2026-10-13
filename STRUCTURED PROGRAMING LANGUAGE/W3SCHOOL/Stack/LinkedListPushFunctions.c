@@ -68,7 +68,7 @@ void display()
     }
     while(current != NULL)
     {
-        printf("%d  /n ", current->data);
+        printf("%d  \n\n ", current->data);
         current = current->next;
     }
 }
