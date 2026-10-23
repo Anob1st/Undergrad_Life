@@ -48,10 +48,8 @@ int main()
     for (int i = 0; i < 5; i++)
     {
         printf("\nTeacher %d\n", i + 1);
-        printf("Dept: %s\n", T[i].dept);
-        printf("Name: %s\n", T[i].name);
-        printf("ID: %d\n", T[i].id);
-        printf("Background: %s\n", T[i].attr.skill);
+        printf("Dept: %s\nName: %s\nID: %d\nBackground: %s\n",
+        T[i].dept,T[i].name,T[i].id,T[i].attr.skill);
     }
     
 
@@ -63,7 +61,7 @@ int main()
 //Too lazy to input 10 students. Changed i<10
     for (int i = 0; i <2; i++)
     {
-        printf("\nStudent %d\nHEY YOU NEED TO INPUT THE STUDENT INFO HERE manually\n", i + 1);
+        printf("\nStudent %d\n ENTER YOUR STUDENT INFO BELOW\n", i + 1);
         
         printf("Dept: ");
         scanf(" %67[^\n]", S[i].dept);
@@ -81,11 +79,11 @@ int main()
 //i<10
     for (int i = 0; i < 2; i++)
     {
-        printf("\nStudent %d\n", i + 1);
+        printf("\n\n\nStudent %d\n", i + 1);
         printf("Department: %s\n", S[i].dept);
         printf("Name: %s\n", S[i].name);
         printf("Roll: %d\n", S[i].roll);
-        printf("Marks: %.2f\n", S[i].marks);
+        printf("Marks: %.2f\n\n", S[i].marks);
         printf("Skills/background: %s\n", S[i].attr.skill);
     }
 
